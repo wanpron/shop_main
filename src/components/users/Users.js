@@ -18,6 +18,7 @@ export default {
       pagenum: 1,
       // 查询数据
       input5: '',
+      呵呵呵: '', // 删除掉,测试
       dialogFormVisible: true,
       addUserForm: {
         username: '',
